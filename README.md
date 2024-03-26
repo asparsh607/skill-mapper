@@ -19,15 +19,17 @@ Skill Mapper is a data engineering project tailored specifically for the tech in
 1. Clone the repository:
 `git clone https://github.com/asparsh607/skill-mapper.git`
 
-2. Install dependencies:
+2. Change the current directory:
+`cd skill-mapper/`
+3. Install dependencies:
 `pip install -r requirements.txt`
 
-3. Run the project:
+4. Run the project:
 `python main.py`
 
-4. Open the job_analytics.pbix file to view the Visualisations
+5. Open the job_analytics.pbix file to view the Visualisations
 
-5. Explore and analyze the tech skills landscape with ease!
+6. Explore and analyze the tech skills landscape with ease!
 
 ## Contributing
 
