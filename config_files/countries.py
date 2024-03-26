@@ -1,0 +1,22 @@
+it_hubs_by_country = {
+    "United States": ["San Francisco", "San Jose", "New York City", "Seattle", "Boston", "Austin", "Washington, D.C.", "Los Angeles", "Chicago", "Atlanta", "Denver", "Dallas", "Raleigh", "Portland", "San Diego"],
+    "India": ["Bengaluru", "Hyderabad", "Pune", "Chennai", "Gurgaon", "Noida", "Mumbai", "Delhi", "Kolkata", "Ahmedabad", "Chandigarh", "Coimbatore", "Jaipur", "Indore", "Lucknow"],
+    "China": ["Beijing", "Shanghai", "Shenzhen", "Hangzhou", "Guangzhou", "Chengdu", "Nanjing", "Xi'an", "Wuhan", "Tianjin", "Chongqing", "Suzhou", "Qingdao", "Dalian", "Xiamen"],
+    "United Kingdom": ["London", "Manchester", "Edinburgh", "Bristol", "Cambridge", "Glasgow", "Birmingham", "Leeds", "Oxford", "Reading", "Liverpool", "Belfast", "Cardiff", "Sheffield", "Newcastle upon Tyne"],
+    "Canada": ["Toronto", "Vancouver", "Montreal", "Ottawa", "Calgary", "Waterloo", "Edmonton", "Halifax", "Victoria", "Winnipeg", "Quebec City", "London", "Hamilton", "Kitchener", "Saskatoon"],
+    "Germany": ["Berlin", "Munich", "Hamburg", "Frankfurt", "Düsseldorf", "Cologne", "Stuttgart", "Hanover", "Leipzig", "Dresden", "Nuremberg", "Bremen", "Essen", "Dortmund", "Duisburg"],
+    "Russia": ["Moscow", "Saint Petersburg", "Novosibirsk", "Yekaterinburg", "Kazan", "Nizhny Novgorod", "Chelyabinsk", "Omsk", "Samara", "Rostov-on-Don", "Ufa", "Volgograd", "Perm", "Krasnoyarsk", "Voronezh"],
+    "Australia": ["Sydney", "Melbourne", "Brisbane", "Perth", "Adelaide", "Canberra", "Gold Coast", "Newcastle", "Wollongong", "Sunshine Coast", "Geelong", "Hobart", "Townsville", "Cairns", "Darwin"],
+    "France": ["Paris", "Lyon", "Toulouse", "Marseille", "Lille", "Bordeaux", "Nice", "Nantes", "Strasbourg", "Rennes", "Montpellier", "Grenoble", "Reims", "Le Havre", "Saint-Étienne"],
+    "Brazil": ["São Paulo", "Rio de Janeiro", "Belo Horizonte", "Brasília", "Curitiba", "Porto Alegre", "Salvador", "Fortaleza", "Recife", "Campinas", "Manaus", "Goiania", "São Luis", "São Gonçalo", "Maceió"],
+    "Japan": ["Tokyo", "Osaka", "Nagoya", "Yokohama", "Kyoto", "Sapporo", "Fukuoka", "Kobe", "Kawasaki", "Saitama", "Hiroshima", "Sendai", "Chiba", "Kitakyushu", "Nara"],
+    "South Korea": ["Seoul", "Busan", "Incheon", "Daegu", "Daejeon", "Gwangju", "Ulsan", "Suwon", "Sejong", "Goyang", "Changwon", "Jeonju", "Cheongju", "Jeju", "Yongin"],
+    "Israel": ["Tel Aviv", "Jerusalem", "Haifa", "Ramat Gan", "Beersheba", "Petah Tikva", "Netanya", "Holon", "Rishon LeZion", "Ashdod", "Rehovot", "Herzliya", "Bat Yam", "Kfar Saba", "Nahariya"],
+    "Singapore": ["Singapore"],
+    "Spain": ["Madrid", "Barcelona", "Valencia", "Seville", "Zaragoza", "Málaga", "Murcia", "Palma", "Las Palmas de Gran Canaria", "Bilbao", "Alicante", "Córdoba", "Valladolid", "Vigo", "Gijón"],
+    "Netherlands": ["Amsterdam", "Rotterdam", "Utrecht", "The Hague", "Eindhoven", "Tilburg", "Groningen", "Almere", "Breda", "Nijmegen", "Apeldoorn", "Haarlem", "Arnhem", "Zaanstad", "Amersfoort"],
+    "Sweden": ["Stockholm", "Gothenburg", "Malmö", "Uppsala", "Västerås", "Örebro", "Linköping", "Helsingborg", "Jönköping", "Norrköping", "Lund", "Umeå", "Gävle", "Borås", "Södertälje"],
+    "Italy": ["Milan", "Rome", "Turin", "Naples", "Palermo", "Genoa", "Bologna", "Florence", "Bari", "Catania", "Venice", "Verona", "Messina", "Padua", "Trieste"],
+    "Poland": ["Warsaw", "Kraków", "Łódź", "Wrocław", "Poznań", "Gdańsk", "Szczecin", "Bydgoszcz", "Lublin", "Katowice", "Białystok", "Gdynia", "Częstochowa", "Radom", "Sosnowiec"],
+    "Switzerland": ["Zurich", "Geneva", "Basel", "Lausanne", "Bern", "Winterthur", "Lucerne", "St. Gallen", "Lugano", "Biel/Bienne", "Thun", "Köniz", "La Chaux-de-Fonds", "Schaffhausen", "Fribourg"]
+}
