@@ -17,7 +17,7 @@ Skill Mapper is a data engineering project tailored specifically for the tech in
 ## Usage
 
 1. Clone the repository:
-`git clone https://github.com/your_username/TechSkill-Mapper.git`
+`[git clone https://github.com/asparsh607/skill-mapper.git`
 
 2. Install dependencies:
 `pip install -r requirements.txt`
