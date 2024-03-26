@@ -27,7 +27,8 @@ Skill Mapper is a data engineering project tailored specifically for the tech in
 4. Run the project:
 `python main.py`
 
-5. Open the job_analytics.pbix file to view the Visualisations
+5. Open the job_analytics.pbix file to view the Visualisation.
+     **DO NOT FORGET TO REFRESH THE DATA AFTER OPENING THE job_analytics.pbix file.**
 
 6. Explore and analyze the tech skills landscape with ease!
 
