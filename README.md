@@ -16,26 +16,62 @@ Skill Mapper is a data engineering project tailored specifically for the tech in
 
 ## Usage
 
-1. Clone the repository:
-`git clone https://github.com/asparsh607/skill-mapper.git`
+1. **Clone the Repository:**
+   `git clone https://github.com/asparsh607/skill-mapper.git`
+2. **Change the Current Directory:**
+   `cd skill-mapper/`
+3. **Install Dependencies:**
+   `pip install -r requirements.txt`
+4. **Run the Project:**
+   `python main.py`
 
-2. Change the current directory:
-`cd skill-mapper/`
-3. Install dependencies:
-`pip install -r requirements.txt`
+## Power BI Integration
 
-4. Run the project:
-`python main.py`
+1. **Open Power BI:**
+    Open Power BI. This step is typically required only once for initial setup.
+2. **Transform Data:**
+    Go to the Home tab.
+    Select "Transform Data" in the toolbar.
+    Select "FileName" Table:
 
-5. Open the job_analytics.pbix file to view the Visualisation.
-     **DO NOT FORGET TO REFRESH THE DATA AFTER OPENING THE job_analytics.pbix file.**
+    In the Queries pane on the left side, select the "FileName" table.
+    Open Advanced Editor:
+        Go to the View tab.
+        Inside the View tab, click on "Advanced Editor".
+3. **Copy Address from File:**
+    Open the file named current_directory_location.txt.
+    Copy the address from the file.
+    Paste Address in Source Variable:
 
-6. Explore and analyze the tech skills landscape with ease!
+    Paste the copied address into the Source variable within the 'let' block.
+    Ensure to enclose the address in double quotes.
+
+4. **Finish Editing:**
+
+    Click "Done" to finish editing the script.
+    Go back to the Home tab.
+    Select "Close & Apply" to apply the changes.
+
+5. **Visualize Data:**
+
+    Open Job Analytics Dashboard:
+    Open the job_analytics.pbix file to view the Visualization.
+
+6. **Refresh Data:**
+
+    After opening job_analytics.pbix, remember to refresh the data to ensure you have the latest updates.
+    This step is crucial for subsequent runs to reflect the updated data.
+   
+7. **Explore and Analyze:**
+
+    Utilize the visualizations in Power BI to explore and analyze the tech skills landscape.
+
+8. **Save and Document Insights:**
+
+    Save your findings and document any insights obtained from the analysis.
 
 ## Contributing
-
 Contributions are welcome! If you have any ideas for improvement or new features, feel free to submit a pull request.
 
 ## License
-
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the MIT License.
