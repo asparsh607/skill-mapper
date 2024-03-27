@@ -28,8 +28,10 @@ Skill Mapper is a data engineering project tailored specifically for the tech in
 ## Power BI Integration
 
 1. **Open Power BI:**
-    Open Power BI. This step is typically required only once for initial setup.
-2. **Transform Data:**
+    Open Power BI.
+
+   **Steps 3-5 are typically required only once for initial setup.**
+3. **Transform Data:**
     Go to the Home tab.
     Select "Transform Data" in the toolbar.
     Select "FileName" Table:
@@ -38,7 +40,7 @@ Skill Mapper is a data engineering project tailored specifically for the tech in
     Open Advanced Editor:
         Go to the View tab.
         Inside the View tab, click on "Advanced Editor".
-3. **Copy Address from File:**
+4. **Copy Address from File:**
     Open the file named current_directory_location.txt.
     Copy the address from the file.
     Paste Address in Source Variable:
@@ -46,27 +48,27 @@ Skill Mapper is a data engineering project tailored specifically for the tech in
     Paste the copied address into the Source variable within the 'let' block.
     Ensure to enclose the address in double quotes.
 
-4. **Finish Editing:**
+5. **Finish Editing:**
 
     Click "Done" to finish editing the script.
     Go back to the Home tab.
     Select "Close & Apply" to apply the changes.
 
-5. **Visualize Data:**
+6. **Visualize Data:**
 
     Open Job Analytics Dashboard:
     Open the job_analytics.pbix file to view the Visualization.
 
-6. **Refresh Data:**
+7. **Refresh Data:**
 
     After opening job_analytics.pbix, remember to refresh the data to ensure you have the latest updates.
     This step is crucial for subsequent runs to reflect the updated data.
    
-7. **Explore and Analyze:**
+8. **Explore and Analyze:**
 
     Utilize the visualizations in Power BI to explore and analyze the tech skills landscape.
 
-8. **Save and Document Insights:**
+9. **Save and Document Insights:**
 
     Save your findings and document any insights obtained from the analysis.
 
